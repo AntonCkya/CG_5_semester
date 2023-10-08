@@ -1,4 +1,4 @@
-# Computer_science_5_semester
+# Computer_graphics_5_semester
 # Варианты:
 | № Лабораторной работы |    Задание     | 
 |-----------------------|----------------|
